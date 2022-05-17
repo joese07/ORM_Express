@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin123",
+    "database": "tugas_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "admin123",
+    "database": "tugas_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "admin123",
+    "database": "tugas_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
